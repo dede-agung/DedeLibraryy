@@ -1,0 +1,3 @@
+include ':DedeLibraryy'
+include ':app'
+rootProject.name = "ProjectDedeLibrary"
